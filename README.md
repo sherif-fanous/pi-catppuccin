@@ -26,5 +26,5 @@ Then select a theme via `/settings`.
 ## Uninstall
 
 ```shell
-pi remove @sherif-fanous/pi-catppuccin
+pi remove npm:@sherif-fanous/pi-catppuccin
 ```
