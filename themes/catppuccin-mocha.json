@@ -83,8 +83,8 @@
     "bashMode": "peach"
   },
   "export": {
-    "pageBg": "#11111b",
-    "cardBg": "#1e1e2e",
-    "infoBg": "#313244"
+    "pageBg": "crust",
+    "cardBg": "base",
+    "infoBg": "surface_0"
   }
 }
