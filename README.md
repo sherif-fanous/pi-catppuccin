@@ -1,6 +1,7 @@
 # @sherif-fanous/pi-catppuccin
 
-Catppuccin themes for the Pi Coding Agent. This package provides all four official Catppuccin flavors as installable Pi themes.
+Catppuccin themes for the Pi Coding Agent. This package provides all four
+official Catppuccin flavors as installable Pi themes.
 
 ## Available Themes
 
