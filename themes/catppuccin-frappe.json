@@ -1,6 +1,7 @@
 {
   "$schema": "https://pi.dev/schemas/theme.schema.json",
   "name": "catppuccin-frappe",
+  "appearance": "dark",
   "vars": {
     "rosewater": "#f2d5cf",
     "flamingo": "#eebebe",
@@ -41,7 +42,11 @@
     "dim": "overlay_0",
     "text": "text",
     "thinkingText": "subtext_0",
+    "scrollbarTrack": "surface_1",
+    "scrollbarThumb": "overlay_2",
     "selectedBg": "surface_1",
+    "searchMatchBg": "surface_1",
+    "searchMatchText": "teal",
     "userMessageBg": "surface_0",
     "userMessageText": "text",
     "customMessageBg": "surface_0",
